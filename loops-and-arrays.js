@@ -5,7 +5,7 @@
 // ==========================================
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
-console.log('echt lekker bezig')
+console.log('echt lekker bezig echt wel...en nu maak ik aanpassingen')
 gconsole.log(names);
 
 // Verwachtte uitkomsten:
