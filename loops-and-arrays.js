@@ -5,7 +5,7 @@
 // ==========================================
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
-
+console.log('lekker slim);
 console.log(names);
 
 // Verwachtte uitkomsten:
