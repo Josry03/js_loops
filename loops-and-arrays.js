@@ -5,8 +5,8 @@
 // ==========================================
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
-console.log('lekker slim);
-console.log(names);
+console.log('echt lekker bezig')
+gconsole.log(names);
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
